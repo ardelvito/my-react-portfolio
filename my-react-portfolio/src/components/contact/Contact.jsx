@@ -24,9 +24,9 @@ function Contact() {
                     </article>
                     <article className='contact__option'>
                         <BsWhatsapp className='contact__option-icon'/>
-                        <h4>Email</h4>
+                        <h4>Whatsapp</h4>
                         <h5>+6281234567890</h5>
-                        <a href='https://api.whatsapp.com/send?phone=+6281234567890' target='_blank' rel="noreferrer">Send Email</a>
+                        <a href='https://api.whatsapp.com/send?phone=+6281234567890' target='_blank' rel="noreferrer">Send Message</a>
                     </article>
                 </div>
                 {/* End of Contact Options */}
