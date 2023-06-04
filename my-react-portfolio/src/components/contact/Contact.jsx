@@ -13,14 +13,14 @@ function Contact() {
                     <article className='contact__option'>
                         <MdOutlineEmail className='contact__option-icon'/>
                         <h4>Email</h4>
-                        <h5>adminjohn@gmail.com</h5>
+                        <h5>ardelvito@gmail.com</h5>
                         <a href='mailto:adminjohn@gmail.com' target='_blank' rel="noreferrer">Send Message</a>
                     </article>
                     <article className='contact__option'>
                         <RiMessengerLine className='contact__option-icon'/>
                         <h4>Messenger</h4>
-                        <h5>johndoe</h5>
-                        <a href='https://m.me/ernest.achiever' target='_blank' rel="noreferrer">Send Message</a>
+                        <h5>ardel vito</h5>
+                        <a href='https://www.messenger.com' target='_blank' rel="noreferrer">Send Message</a>
                     </article>
                     <article className='contact__option'>
                         <BsWhatsapp className='contact__option-icon'/>
